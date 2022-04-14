@@ -1,0 +1,218 @@
+2019-12-13 14:24:16,738 - 
+
+******************************************************************************************
+2019-12-13 14:24:16,738 - Starting C:\_Data\05_Script\updateTerminalServer\updateTerminalServer.exe
+2019-12-13 14:24:16,738 - Directory available: C:\_Data\05_Script\updateTerminalServer
+2019-12-13 14:24:16,738 - Directory available: C:\_Data\05_Script\updateTerminalServer\2019-xx-xx
+2019-12-13 14:24:16,739 - Found in C:\_Data\05_Script\updateTerminalServer\2019-xx-xx:  KalkTester.exe
+2019-12-13 14:24:16,739 - Found in C:\_Data\05_Script\updateTerminalServer\2019-xx-xx:  tfArtikel1.mdb
+2019-12-13 14:24:16,739 - Found in C:\_Data\05_Script\updateTerminalServer\2019-xx-xx:  tfDB3.mdb
+2019-12-13 14:24:16,739 - Found in C:\_Data\05_Script\updateTerminalServer\2019-xx-xx:  tflang.mdb
+2019-12-13 14:24:16,739 - Found in C:\_Data\05_Script\updateTerminalServer\2019-xx-xx:  tfSeries.mdb
+2019-12-13 14:24:16,739 - Found in C:\_Data\05_Script\updateTerminalServer\2019-xx-xx:  tfUIn.mdb
+2019-12-13 14:24:16,739 - Found in C:\_Data\05_Script\updateTerminalServer\2019-xx-xx:  Thermofin.exe
+2019-12-13 14:24:16,739 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEE\thermofin SP
+2019-12-13 14:24:16,739 - C:\_Data\05_Script\updateTerminalServer\W2K16TEE\thermofin SP RES1 ist aktiv
+2019-12-13 14:24:16,745 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEF\thermofin SP
+2019-12-13 14:24:16,745 - C:\_Data\05_Script\updateTerminalServer\W2K16TEF\thermofin SP RES1 ist aktiv
+2019-12-13 14:24:16,751 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEK\thermofin SP
+2019-12-13 14:24:16,752 - C:\_Data\05_Script\updateTerminalServer\W2K16TEK\thermofin SP RES1 ist aktiv
+2019-12-13 14:24:16,757 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEL\thermofin SP
+2019-12-13 14:24:16,758 - C:\_Data\05_Script\updateTerminalServer\W2K16TEL\thermofin SP RES1 ist aktiv
+2019-12-13 14:24:16,764 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEM\thermofin SP
+2019-12-13 14:24:16,764 - C:\_Data\05_Script\updateTerminalServer\W2K16TEM\thermofin SP RES1 ist aktiv
+2019-12-13 14:24:16,769 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEN\thermofin SP
+2019-12-13 14:24:16,770 - C:\_Data\05_Script\updateTerminalServer\W2K16TEN\thermofin SP RES1 ist aktiv
+2019-12-13 14:24:16,776 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEO\thermofin SP
+2019-12-13 14:24:16,776 - C:\_Data\05_Script\updateTerminalServer\W2K16TEO\thermofin SP RES1 ist aktiv
+2019-12-13 14:24:16,782 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEP\thermofin SP
+2019-12-13 14:24:16,782 - C:\_Data\05_Script\updateTerminalServer\W2K16TEP\thermofin SP RES1 ist aktiv
+2019-12-13 14:24:16,788 - KalkTester.exe found 1 time(s): Kalk\KalkTester.exe
+2019-12-13 14:24:16,788 - tfArtikel1.mdb found 2 time(s): RES1\tfArtikel1.mdb, RES2\tfArtikel1.mdb
+2019-12-13 14:24:16,788 - tfDB3.mdb found 2 time(s): RES1\tfDB3.mdb, RES2\tfDB3.mdb
+2019-12-13 14:24:16,788 - tflang.mdb found 2 time(s): RES1\tflang.mdb, RES2\tflang.mdb
+2019-12-13 14:24:16,788 - tfSeries.mdb found 2 time(s): RES1\tfSeries.mdb, RES2\tfSeries.mdb
+2019-12-13 14:24:16,788 - tfUIn.mdb found 2 time(s): RES1\tfUIn.mdb, RES2\tfUIn.mdb
+2019-12-13 14:24:16,788 - Thermofin.exe found 1 time(s): Thermofin.exe
+2019-12-13 14:24:16,788 - 
+2019-12-13 14:24:16,792 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEE\thermofin SP
+2019-12-13 14:24:16,803 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEF\thermofin SP
+2019-12-13 14:24:16,804 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEK\thermofin SP
+2019-12-13 14:24:16,820 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEL\thermofin SP
+2019-12-13 14:24:16,849 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEM\thermofin SP
+2019-12-13 14:24:16,850 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEN\thermofin SP
+2019-12-13 14:24:16,850 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEO\thermofin SP
+2019-12-13 14:24:16,851 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEP\thermofin SP
+2019-12-13 14:24:20,732 - 
+2019-12-13 14:24:20,733 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEE\thermofin SP
+2019-12-13 14:24:20,763 - Update Kalk\KalkTester.exe
+2019-12-13 14:24:20,854 - Remove content from C:\_Data\05_Script\updateTerminalServer\W2K16TEE\thermofin SP\RES2
+2019-12-13 14:24:20,855 - Copy databases from RES1 to RES2
+2019-12-13 14:24:21,357 - Update RES2\tfArtikel1.mdb
+2019-12-13 14:24:21,420 - Update RES2\tfDB3.mdb
+2019-12-13 14:24:21,480 - Update RES2\tflang.mdb
+2019-12-13 14:24:22,779 - Update RES2\tfSeries.mdb
+2019-12-13 14:24:22,833 - Update RES2\tfUIn.mdb
+2019-12-13 14:24:22,871 - Update Thermofin.exe
+2019-12-13 14:24:22,871 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEF\thermofin SP
+2019-12-13 14:24:22,908 - Update Kalk\KalkTester.exe
+2019-12-13 14:24:23,041 - Remove content from C:\_Data\05_Script\updateTerminalServer\W2K16TEF\thermofin SP\RES2
+2019-12-13 14:24:23,041 - Copy databases from RES1 to RES2
+2019-12-13 14:24:23,318 - Update RES2\tfArtikel1.mdb
+2019-12-13 14:24:23,330 - Update RES2\tfDB3.mdb
+2019-12-13 14:24:23,341 - Update RES2\tflang.mdb
+2019-12-13 14:24:23,558 - Update RES2\tfSeries.mdb
+2019-12-13 14:24:23,568 - Update RES2\tfUIn.mdb
+2019-12-13 14:24:23,591 - Update Thermofin.exe
+2019-12-13 14:24:23,591 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEK\thermofin SP
+2019-12-13 14:24:23,617 - Update Kalk\KalkTester.exe
+2019-12-13 14:24:23,674 - Remove content from C:\_Data\05_Script\updateTerminalServer\W2K16TEK\thermofin SP\RES2
+2019-12-13 14:24:23,674 - Copy databases from RES1 to RES2
+2019-12-13 14:24:23,928 - Update RES2\tfArtikel1.mdb
+2019-12-13 14:24:23,951 - Update RES2\tfDB3.mdb
+2019-12-13 14:24:23,970 - Update RES2\tflang.mdb
+2019-12-13 14:24:24,238 - Update RES2\tfSeries.mdb
+2019-12-13 14:24:24,248 - Update RES2\tfUIn.mdb
+2019-12-13 14:24:24,275 - Update Thermofin.exe
+2019-12-13 14:24:24,275 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEL\thermofin SP
+2019-12-13 14:24:24,299 - Update Kalk\KalkTester.exe
+2019-12-13 14:24:24,354 - Remove content from C:\_Data\05_Script\updateTerminalServer\W2K16TEL\thermofin SP\RES2
+2019-12-13 14:24:24,354 - Copy databases from RES1 to RES2
+2019-12-13 14:24:24,572 - Update RES2\tfArtikel1.mdb
+2019-12-13 14:24:24,583 - Update RES2\tfDB3.mdb
+2019-12-13 14:24:24,594 - Update RES2\tflang.mdb
+2019-12-13 14:24:24,812 - Update RES2\tfSeries.mdb
+2019-12-13 14:24:24,823 - Update RES2\tfUIn.mdb
+2019-12-13 14:24:24,852 - Update Thermofin.exe
+2019-12-13 14:24:24,852 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEM\thermofin SP
+2019-12-13 14:24:24,888 - Update Kalk\KalkTester.exe
+2019-12-13 14:24:24,951 - Remove content from C:\_Data\05_Script\updateTerminalServer\W2K16TEM\thermofin SP\RES2
+2019-12-13 14:24:24,951 - Copy databases from RES1 to RES2
+2019-12-13 14:24:25,177 - Update RES2\tfArtikel1.mdb
+2019-12-13 14:24:25,188 - Update RES2\tfDB3.mdb
+2019-12-13 14:24:25,201 - Update RES2\tflang.mdb
+2019-12-13 14:24:25,562 - Update RES2\tfSeries.mdb
+2019-12-13 14:24:25,572 - Update RES2\tfUIn.mdb
+2019-12-13 14:24:25,597 - Update Thermofin.exe
+2019-12-13 14:24:25,597 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEN\thermofin SP
+2019-12-13 14:24:25,623 - Update Kalk\KalkTester.exe
+2019-12-13 14:24:25,650 - Remove content from C:\_Data\05_Script\updateTerminalServer\W2K16TEN\thermofin SP\RES2
+2019-12-13 14:24:25,650 - Copy databases from RES1 to RES2
+2019-12-13 14:24:25,841 - Update RES2\tfArtikel1.mdb
+2019-12-13 14:24:25,847 - Update RES2\tfDB3.mdb
+2019-12-13 14:24:25,851 - Update RES2\tflang.mdb
+2019-12-13 14:24:25,954 - Update RES2\tfSeries.mdb
+2019-12-13 14:24:25,958 - Update RES2\tfUIn.mdb
+2019-12-13 14:24:25,981 - Update Thermofin.exe
+2019-12-13 14:24:25,981 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEO\thermofin SP
+2019-12-13 14:24:26,012 - Update Kalk\KalkTester.exe
+2019-12-13 14:24:26,028 - Remove content from C:\_Data\05_Script\updateTerminalServer\W2K16TEO\thermofin SP\RES2
+2019-12-13 14:24:26,028 - Copy databases from RES1 to RES2
+2019-12-13 14:24:26,210 - Update RES2\tfArtikel1.mdb
+2019-12-13 14:24:26,215 - Update RES2\tfDB3.mdb
+2019-12-13 14:24:26,219 - Update RES2\tflang.mdb
+2019-12-13 14:24:26,321 - Update RES2\tfSeries.mdb
+2019-12-13 14:24:26,325 - Update RES2\tfUIn.mdb
+2019-12-13 14:24:26,352 - Update Thermofin.exe
+2019-12-13 14:24:26,353 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEP\thermofin SP
+2019-12-13 14:24:26,377 - Update Kalk\KalkTester.exe
+2019-12-13 14:24:26,392 - Remove content from C:\_Data\05_Script\updateTerminalServer\W2K16TEP\thermofin SP\RES2
+2019-12-13 14:24:26,392 - Copy databases from RES1 to RES2
+2019-12-13 14:24:26,575 - Update RES2\tfArtikel1.mdb
+2019-12-13 14:24:26,582 - Update RES2\tfDB3.mdb
+2019-12-13 14:24:26,588 - Update RES2\tflang.mdb
+2019-12-13 14:24:26,728 - Update RES2\tfSeries.mdb
+2019-12-13 14:24:26,732 - Update RES2\tfUIn.mdb
+2019-12-13 14:24:26,756 - Update Thermofin.exe
+2019-12-13 14:24:26,762 - Change switch on C:\_Data\05_Script\updateTerminalServer\W2K16TEE\thermofin SP to RES2
+2019-12-13 14:24:26,768 - Change switch on C:\_Data\05_Script\updateTerminalServer\W2K16TEF\thermofin SP to RES2
+2019-12-13 14:24:26,775 - Change switch on C:\_Data\05_Script\updateTerminalServer\W2K16TEK\thermofin SP to RES2
+2019-12-13 14:24:26,780 - Change switch on C:\_Data\05_Script\updateTerminalServer\W2K16TEL\thermofin SP to RES2
+2019-12-13 14:24:26,786 - Change switch on C:\_Data\05_Script\updateTerminalServer\W2K16TEM\thermofin SP to RES2
+2019-12-13 14:24:26,794 - Change switch on C:\_Data\05_Script\updateTerminalServer\W2K16TEN\thermofin SP to RES2
+2019-12-13 14:24:26,800 - Change switch on C:\_Data\05_Script\updateTerminalServer\W2K16TEO\thermofin SP to RES2
+2019-12-13 14:24:26,806 - Change switch on C:\_Data\05_Script\updateTerminalServer\W2K16TEP\thermofin SP to RES2
+2019-12-13 14:24:26,809 - Rename 2019-xx-xx to C:\_Data\05_Script\updateTerminalServer\2019-12-13
+2019-12-13 14:24:26,810 - Create directory: C:\_Data\05_Script\updateTerminalServer\2019
+2019-12-13 14:24:26,813 - Move C:\_Data\05_Script\updateTerminalServer\2019-12-13 into C:\_Data\05_Script\updateTerminalServer\2019\2019-12-13
+2019-12-13 14:24:26,814 - Quit C:\_Data\05_Script\updateTerminalServer\updateTerminalServer.exe
+******************************************************************************************
+2019-12-13 14:25:00,837 - 
+
+******************************************************************************************
+2019-12-13 14:25:00,838 - Starting C:\_Data\05_Script\updateTerminalServer\updateTerminalServer.exe
+2019-12-13 14:25:00,838 - Directory available: C:\_Data\05_Script\updateTerminalServer
+2019-12-13 14:25:00,839 - Directory available: C:\_Data\05_Script\updateTerminalServer\2019-xx-xx
+2019-12-13 14:25:00,839 - C:\_Data\05_Script\updateTerminalServer\2019-xx-xx is empty
+2019-12-13 14:25:00,839 - Quit C:\_Data\05_Script\updateTerminalServer\updateTerminalServer.exe
+******************************************************************************************
+2019-12-13 14:25:22,167 - 
+
+******************************************************************************************
+2019-12-13 14:25:22,168 - Starting C:\_Data\05_Script\updateTerminalServer\updateTerminalServer.exe
+2019-12-13 14:25:22,168 - Directory available: C:\_Data\05_Script\updateTerminalServer
+2019-12-13 14:25:22,168 - Directory available: C:\_Data\05_Script\updateTerminalServer\2019-xx-xx
+2019-12-13 14:25:22,169 - Found in C:\_Data\05_Script\updateTerminalServer\2019-xx-xx:  KalkTester.exe
+2019-12-13 14:25:22,169 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEE\thermofin SP
+2019-12-13 14:25:22,169 - C:\_Data\05_Script\updateTerminalServer\W2K16TEE\thermofin SP RES2 ist aktiv
+2019-12-13 14:25:22,176 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEF\thermofin SP
+2019-12-13 14:25:22,176 - C:\_Data\05_Script\updateTerminalServer\W2K16TEF\thermofin SP RES2 ist aktiv
+2019-12-13 14:25:22,183 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEK\thermofin SP
+2019-12-13 14:25:22,183 - C:\_Data\05_Script\updateTerminalServer\W2K16TEK\thermofin SP RES2 ist aktiv
+2019-12-13 14:25:22,190 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEL\thermofin SP
+2019-12-13 14:25:22,190 - C:\_Data\05_Script\updateTerminalServer\W2K16TEL\thermofin SP RES2 ist aktiv
+2019-12-13 14:25:22,198 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEM\thermofin SP
+2019-12-13 14:25:22,198 - C:\_Data\05_Script\updateTerminalServer\W2K16TEM\thermofin SP RES2 ist aktiv
+2019-12-13 14:25:22,204 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEN\thermofin SP
+2019-12-13 14:25:22,204 - C:\_Data\05_Script\updateTerminalServer\W2K16TEN\thermofin SP RES2 ist aktiv
+2019-12-13 14:25:22,209 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEO\thermofin SP
+2019-12-13 14:25:22,209 - C:\_Data\05_Script\updateTerminalServer\W2K16TEO\thermofin SP RES2 ist aktiv
+2019-12-13 14:25:22,214 - Directory available: C:\_Data\05_Script\updateTerminalServer\W2K16TEP\thermofin SP
+2019-12-13 14:25:22,215 - C:\_Data\05_Script\updateTerminalServer\W2K16TEP\thermofin SP RES2 ist aktiv
+2019-12-13 14:25:22,220 - KalkTester.exe found 1 time(s): Kalk\KalkTester.exe
+2019-12-13 14:25:22,220 - 
+2019-12-13 14:25:22,222 - Rename C:\_Data\05_Script\updateTerminalServer\W2K16TEE\Backup\thermofin SP_BCK1
+2019-12-13 14:25:22,223 - Rename C:\_Data\05_Script\updateTerminalServer\W2K16TEF\Backup\thermofin SP_BCK1
+2019-12-13 14:25:22,225 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEE\thermofin SP
+2019-12-13 14:25:22,226 - Rename C:\_Data\05_Script\updateTerminalServer\W2K16TEK\Backup\thermofin SP_BCK1
+2019-12-13 14:25:22,228 - Rename C:\_Data\05_Script\updateTerminalServer\W2K16TEL\Backup\thermofin SP_BCK1
+2019-12-13 14:25:22,228 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEF\thermofin SP
+2019-12-13 14:25:22,240 - Rename C:\_Data\05_Script\updateTerminalServer\W2K16TEM\Backup\thermofin SP_BCK1
+2019-12-13 14:25:22,240 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEK\thermofin SP
+2019-12-13 14:25:22,242 - Rename C:\_Data\05_Script\updateTerminalServer\W2K16TEN\Backup\thermofin SP_BCK1
+2019-12-13 14:25:22,243 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEL\thermofin SP
+2019-12-13 14:25:22,243 - Rename C:\_Data\05_Script\updateTerminalServer\W2K16TEO\Backup\thermofin SP_BCK1
+2019-12-13 14:25:22,244 - Rename C:\_Data\05_Script\updateTerminalServer\W2K16TEP\Backup\thermofin SP_BCK1
+2019-12-13 14:25:22,246 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEN\thermofin SP
+2019-12-13 14:25:22,248 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEM\thermofin SP
+2019-12-13 14:25:22,249 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEO\thermofin SP
+2019-12-13 14:25:22,249 - Make Backup of C:\_Data\05_Script\updateTerminalServer\W2K16TEP\thermofin SP
+2019-12-13 14:25:26,321 - 
+2019-12-13 14:25:26,321 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEE\thermofin SP
+2019-12-13 14:25:26,323 - Remove Kalk\KalkTester(old).exe
+2019-12-13 14:25:26,351 - Update Kalk\KalkTester.exe
+2019-12-13 14:25:26,352 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEF\thermofin SP
+2019-12-13 14:25:26,352 - Remove Kalk\KalkTester(old).exe
+2019-12-13 14:25:26,382 - Update Kalk\KalkTester.exe
+2019-12-13 14:25:26,382 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEK\thermofin SP
+2019-12-13 14:25:26,383 - Remove Kalk\KalkTester(old).exe
+2019-12-13 14:25:26,413 - Update Kalk\KalkTester.exe
+2019-12-13 14:25:26,413 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEL\thermofin SP
+2019-12-13 14:25:26,414 - Remove Kalk\KalkTester(old).exe
+2019-12-13 14:25:26,445 - Update Kalk\KalkTester.exe
+2019-12-13 14:25:26,445 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEM\thermofin SP
+2019-12-13 14:25:26,447 - Remove Kalk\KalkTester(old).exe
+2019-12-13 14:25:26,480 - Update Kalk\KalkTester.exe
+2019-12-13 14:25:26,480 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEN\thermofin SP
+2019-12-13 14:25:26,481 - Remove Kalk\KalkTester(old).exe
+2019-12-13 14:25:26,514 - Update Kalk\KalkTester.exe
+2019-12-13 14:25:26,514 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEO\thermofin SP
+2019-12-13 14:25:26,515 - Remove Kalk\KalkTester(old).exe
+2019-12-13 14:25:26,544 - Update Kalk\KalkTester.exe
+2019-12-13 14:25:26,544 - Updating Server C:\_Data\05_Script\updateTerminalServer\W2K16TEP\thermofin SP
+2019-12-13 14:25:26,546 - Remove Kalk\KalkTester(old).exe
+2019-12-13 14:25:26,575 - Update Kalk\KalkTester.exe
+2019-12-13 14:25:26,577 - Rename 2019-xx-xx to C:\_Data\05_Script\updateTerminalServer\2019-12-13
+2019-12-13 14:25:26,580 - Move C:\_Data\05_Script\updateTerminalServer\2019-12-13 into C:\_Data\05_Script\updateTerminalServer\2019\2019-12-13(1)
+2019-12-13 14:25:26,581 - Quit C:\_Data\05_Script\updateTerminalServer\updateTerminalServer.exe
+******************************************************************************************
